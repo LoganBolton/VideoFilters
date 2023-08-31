@@ -1,9 +1,11 @@
 import cv2
 import numpy as np
+import random
 
 def apply_rainbow_effect(frame):
     # Convert frame to float32 to prevent overflow
     frame = np.float32(frame)
+    randomMultiplier = random.uniform(0.1, 1.0)
 
     # Get height and width of the frame
     h, w, _ = frame.shape
@@ -13,9 +15,9 @@ def apply_rainbow_effect(frame):
     y = np.linspace(-2*np.pi, 2*np.pi, h).reshape(-1, 1)
 
     # Create sinusoidal functions to create the rainbow effect
-    r_effect = np.sin(y + x) * 45
-    g_effect = np.sin(y + x + 2*np.pi/3) * 45
-    b_effect = np.sin(y + x + 4*np.pi/3) * 45
+    r_effect = np.sin(y + x) * 45 * randomMultiplier
+    g_effect = np.sin(y + x + 2*np.pi/3) * 45 * randomMultiplier
+    b_effect = np.sin(y + x + 4*np.pi/3) * 45 * randomMultiplier
 
     # Add the effects to the original frame values
     frame[..., 0] += b_effect
