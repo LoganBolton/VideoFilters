@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {c}. The text in the image contains a mix of uppercase and lowercase letters, and the letter 'c' is enclosed by a red oval or circle.

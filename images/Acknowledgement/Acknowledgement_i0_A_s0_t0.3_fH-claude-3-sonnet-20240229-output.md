@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {A}, which is the first letter of the word "Acknowledgement".

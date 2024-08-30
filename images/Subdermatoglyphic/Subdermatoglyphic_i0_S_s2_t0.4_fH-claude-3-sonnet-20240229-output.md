@@ -1,0 +1,1 @@
+The character being highlighted with a red oval or circle is {S}. This appears to be the logo or branding for "Subdermatoglyphic", with the letter "S" stylized in red.

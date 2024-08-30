@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {R}. The string of characters appears to be a randomly jumbled sequence of uppercase letters and lowercase letters, and the letter 'R' is enclosed in a red oval shape to draw attention to it.

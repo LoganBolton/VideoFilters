@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {l}. Specifically, the lowercase letter "l" in the word "Acknowledgement" has a red oval drawn around it.

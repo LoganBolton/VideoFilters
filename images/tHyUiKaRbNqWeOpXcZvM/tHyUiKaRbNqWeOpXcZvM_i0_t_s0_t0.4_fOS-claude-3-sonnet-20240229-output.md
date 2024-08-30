@@ -1,0 +1,1 @@
+There is no character highlighted with a red oval in this image. The image is completely white with a single line of text written in red letters: "ÜyUiKaRbNqWeOpXcZvM".

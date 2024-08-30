@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {t}. The text shown is a string of uppercase and lowercase letters, and the letter "t" is enclosed in a red oval or circle, making it stand out from the rest of the characters.

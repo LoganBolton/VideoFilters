@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {s}, which appears to be a stylized logo or symbol.

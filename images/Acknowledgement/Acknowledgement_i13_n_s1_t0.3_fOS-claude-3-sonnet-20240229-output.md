@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {n}. This "n" appears in the word "Acknowledgement" written in plain text on a white background.

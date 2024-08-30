@@ -1,0 +1,1 @@
+There is no character highlighted with a red oval in this image. The image is entirely white with a seemingly random string of uppercase letters and lowercase letters displayed in red text: "fHyUlKaRbNqWeOpXcZyM".

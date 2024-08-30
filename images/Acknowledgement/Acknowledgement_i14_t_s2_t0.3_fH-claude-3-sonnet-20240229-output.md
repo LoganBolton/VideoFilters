@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {t}, which is used to replace the letter "t" in the word "Acknowledgement".

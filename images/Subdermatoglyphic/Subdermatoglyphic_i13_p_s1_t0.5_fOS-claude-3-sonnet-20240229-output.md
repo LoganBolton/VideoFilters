@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {p}. The word "Subdermatoglyphic" has the letter 'p' enclosed in a red oval.

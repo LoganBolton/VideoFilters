@@ -1,0 +1,1 @@
+HThe character being highlighted with a red oval is {H}.

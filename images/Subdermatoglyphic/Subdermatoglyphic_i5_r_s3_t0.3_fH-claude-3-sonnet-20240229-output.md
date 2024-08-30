@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {r}. The word shown is "subdermatoglyphic", and the letter "r" is enclosed in a red oval or circle.

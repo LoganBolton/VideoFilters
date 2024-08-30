@@ -1,0 +1,1 @@
+In this image, the character being highlighted with a red oval is {c}. The word "Acknowledgement" is written, and the letter "c" in the middle has been encircled in red.

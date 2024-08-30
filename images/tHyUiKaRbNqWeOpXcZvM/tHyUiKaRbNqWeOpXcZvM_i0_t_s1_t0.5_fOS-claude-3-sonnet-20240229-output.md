@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {i}. The string of letters appears to be a random jumble, but the lowercase letter 'i' is enclosed in a red circle or oval shape.

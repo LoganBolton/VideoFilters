@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {l}. The word "subdermatoglyphic" has the letter "l" enclosed in a red oval.

@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {b}. This is the lowercase letter 'b' in the word "Sudermatoglyphic".

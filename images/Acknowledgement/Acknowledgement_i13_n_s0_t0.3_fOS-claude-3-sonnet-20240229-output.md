@@ -1,0 +1,1 @@
+The letter being highlighted with a red oval is {e} in the word "Acknowledgement".

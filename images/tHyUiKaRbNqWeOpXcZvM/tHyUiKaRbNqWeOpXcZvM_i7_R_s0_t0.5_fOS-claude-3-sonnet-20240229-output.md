@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {R}. The text consists of a jumbled sequence of letters, and a red oval is drawn around the letter 'R' to draw attention to it.

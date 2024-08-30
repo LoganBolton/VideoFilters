@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {l}. The word spelled out has the letter "l" encircled in red.

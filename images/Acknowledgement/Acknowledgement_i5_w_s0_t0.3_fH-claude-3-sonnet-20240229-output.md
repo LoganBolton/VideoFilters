@@ -1,0 +1,1 @@
+The character being highlighted with a red oval in the word "Acknowledgement" is {w}.

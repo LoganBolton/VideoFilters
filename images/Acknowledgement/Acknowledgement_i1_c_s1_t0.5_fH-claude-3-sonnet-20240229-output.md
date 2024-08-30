@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {c}, which is the third letter in the word "Acknowledgement".

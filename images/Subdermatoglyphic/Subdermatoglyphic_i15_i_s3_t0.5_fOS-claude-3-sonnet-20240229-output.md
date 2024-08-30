@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {0} (the number zero).

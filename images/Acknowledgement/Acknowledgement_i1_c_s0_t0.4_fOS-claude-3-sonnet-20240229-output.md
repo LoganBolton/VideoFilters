@@ -1,0 +1,1 @@
+There is no red oval highlighting any specific character in this image. The image simply shows the word "Acknowledgement" written in black text, with the letters "c" and "k" capitalized in a stylized manner on a plain white background.

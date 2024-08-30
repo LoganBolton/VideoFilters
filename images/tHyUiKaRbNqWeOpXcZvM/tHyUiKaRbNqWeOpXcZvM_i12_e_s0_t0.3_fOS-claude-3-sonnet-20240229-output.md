@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {q}. The string of characters contains the phrase "thyUiKaRbNqWeOpXcZvM", and the lowercase letter 'q' has been enclosed in a red oval shape.

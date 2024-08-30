@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {t}. The string of characters appears to be jumbled letters, with the letter 't' encircled by a red oval.

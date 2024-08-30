@@ -1,0 +1,1 @@
+The character being highlighted with a red circle is the letter S in the word "Subdermatoglyphic".

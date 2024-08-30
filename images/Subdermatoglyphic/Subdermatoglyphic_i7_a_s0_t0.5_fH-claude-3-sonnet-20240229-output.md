@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {t}. The word "Subdermatoglyphic" has the letter "t" enclosed in a red oval or circle.

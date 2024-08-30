@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {i}. In the string of mixed uppercase and lowercase letters, the eleventh character has a red oval around it, which is the lowercase letter 'i'.

@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {e}. The word "Acknowledgement" is written, and the letter "e" in the middle has a red oval around it.

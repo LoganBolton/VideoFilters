@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {H}. The image shows a sequence of uppercase letters, and the letter 'H' has a red oval around it, making it stand out from the rest of the characters.

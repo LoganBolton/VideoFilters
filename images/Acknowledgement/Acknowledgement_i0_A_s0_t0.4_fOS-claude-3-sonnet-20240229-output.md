@@ -1,0 +1,1 @@
+There is no character being highlighted with a red oval in this image. The image displays the word "Acknowledgement" with the letter "A" stylized in red color, resembling a red circle or oval around that letter.

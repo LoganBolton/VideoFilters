@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {g}. The word "Acknowledgement" is spelled out, and the letter "g" has a red oval around it.

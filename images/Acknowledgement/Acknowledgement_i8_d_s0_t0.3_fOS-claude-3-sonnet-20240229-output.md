@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {d}. The word "Acknowledgement" is written, and the letter 'd' in the middle of the word has a red oval around it, drawing attention to that character.

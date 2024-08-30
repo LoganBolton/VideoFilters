@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {k}. In the word "Acknowledgement", the letter "k" is encircled with a red oval shape.

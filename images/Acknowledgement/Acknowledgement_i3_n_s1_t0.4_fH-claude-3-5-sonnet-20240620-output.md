@@ -1,0 +1,3 @@
+{n}
+
+The character highlighted with a red oval in the word "Acknowledgement" is the lowercase letter 'n'.

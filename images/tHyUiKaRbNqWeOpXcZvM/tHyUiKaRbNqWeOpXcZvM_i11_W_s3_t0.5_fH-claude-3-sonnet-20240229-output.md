@@ -1,0 +1,1 @@
+The character highlighted with a red oval is {W}.

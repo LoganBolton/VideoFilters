@@ -1,0 +1,1 @@
+The character being highlighted with a red oval (or circle) is {A}, which appears capitalized at the beginning of the word "Acknowledgement".

@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {d}. In the word "Subdermatoglyphic", the letter 'd' is enclosed within a red oval or circle.

@@ -1,0 +1,1 @@
+In the given image, the character being highlighted with a red oval is {S}, which appears to be the capitalized first letter of the word "Subdermatoglyphic".

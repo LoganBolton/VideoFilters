@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {l}. The word "Acknowledgement" is written, and the letter 'l' in the middle of the word is surrounded by a red oval.

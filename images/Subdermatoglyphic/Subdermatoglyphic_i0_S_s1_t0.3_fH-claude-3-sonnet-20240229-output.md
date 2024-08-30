@@ -1,0 +1,1 @@
+There is no character being highlighted with a red oval in this image. The image contains the word "Subdermatoglyphic" in a simple text format against a plain white background. The letter "S" at the beginning of the word is styled with a red circle around it.

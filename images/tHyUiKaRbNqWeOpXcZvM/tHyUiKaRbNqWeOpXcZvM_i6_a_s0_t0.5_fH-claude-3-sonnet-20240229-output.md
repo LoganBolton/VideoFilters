@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {R}. This appears to be part of a string or code sequence consisting of letters and symbols.

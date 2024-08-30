@@ -1,0 +1,1 @@
+The character being highlighted with a red oval in the given string of letters is {v}.

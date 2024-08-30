@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {n}. The word "subdermmatoglyphic" has the letter "n" enclosed in a red oval or circle.

@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {t}. The image shows the word "Acknowledgement" with the letter "t" enclosed in a red oval or circle.

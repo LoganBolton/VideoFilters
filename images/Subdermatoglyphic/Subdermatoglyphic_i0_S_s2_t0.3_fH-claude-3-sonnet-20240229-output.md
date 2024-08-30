@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {S}, which appears at the beginning of the word "Subdermatoglyphic".

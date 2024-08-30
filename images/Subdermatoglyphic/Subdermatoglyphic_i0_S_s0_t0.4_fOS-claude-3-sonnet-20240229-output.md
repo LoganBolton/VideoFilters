@@ -1,0 +1,1 @@
+There is no character highlighted with a red oval in this image. The image simply displays the word "Subdermatoglyphic" in red text against a plain white background.

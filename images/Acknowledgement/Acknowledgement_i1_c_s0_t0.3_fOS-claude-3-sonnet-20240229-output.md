@@ -1,0 +1,1 @@
+There is no character highlighted with a red oval in this image. The image simply shows the word "Acknowledgement" written in black text against a plain white background.

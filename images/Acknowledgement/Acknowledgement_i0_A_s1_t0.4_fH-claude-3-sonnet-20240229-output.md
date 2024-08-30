@@ -1,0 +1,1 @@
+The character being highlighted with a red circle is {A}, which is the first letter of the word "Acknowledgement" in the image.

@@ -1,0 +1,1 @@
+The character that is being highlighted with a red oval is {n}.

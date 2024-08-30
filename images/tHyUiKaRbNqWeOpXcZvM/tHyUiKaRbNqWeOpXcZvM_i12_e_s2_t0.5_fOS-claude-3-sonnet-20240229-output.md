@@ -1,0 +1,1 @@
+The character being highlighted with a red oval is {e}. The image shows a sequence of uppercase and lowercase letters, and a red oval is drawn around the lowercase letter 'e' within that sequence.

@@ -1,0 +1,1 @@
+The character being highlighted with a red oval in the string of mixed uppercase and lowercase letters is {n}.
